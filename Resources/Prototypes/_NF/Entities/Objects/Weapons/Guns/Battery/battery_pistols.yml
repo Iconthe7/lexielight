@@ -44,7 +44,7 @@
     startingCharge: 1560
   - type: BatterySelfRecharger # Recharges 1 shot per 2 seconds
     autoRecharge: true
-    autoRechargeRate: 30
+    autoRechargeRate: 25
   - type: Tag
     tags:
     - Sidearm
